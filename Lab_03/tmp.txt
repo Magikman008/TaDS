@@ -1,0 +1,1 @@
+Enter number of colums: [31mThis is not a number[0m
